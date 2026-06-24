@@ -45,7 +45,6 @@ Escape before others to win 🏆
 🚧 Future Improvements
 🤖 AI-based question generation
 📊 Leaderboard system
-🔊 Voice chat integration
 📱 Mobile optimization
 🎨 Better UI/UX
 🤝 Contributing
